@@ -847,6 +847,7 @@ footer {
      nav{
       z-index: 9;
       position: fixed;
+      background-color: black;
      }
      .menuLink {
             flex-direction: column;
